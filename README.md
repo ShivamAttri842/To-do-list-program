@@ -22,7 +22,7 @@ Python 3.x
 No external libraries are required; only built-in modules are used.
 
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/ShivamAttri842/todo-list.git
 
 Run the application:
 python todo_list.py
